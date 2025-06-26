@@ -1,4 +1,4 @@
-# Credit To Jimputin https://github.com/Jimputinfn elysiannetworks.netlify.app https://wyrmstonegames.netlify.app/
+# Credit To Jimputin https://github.com/Jimputinfn @ https://elysiannodes.uk
 # I added comments to some parts of the code to make it easier to understand
 from tkinter import *
 import random
